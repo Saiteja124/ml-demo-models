@@ -1,0 +1,16 @@
+langchain
+pypdf
+unstructured
+sentence_transformers
+pinecone-client
+llama-cpp-python
+huggingface_hub
+streamlit
+sqlite3
+nltk
+dotenv
+easyocr
+pytesseract
+matplotlib
+numpy
+pandas
